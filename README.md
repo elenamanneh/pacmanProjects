@@ -1,7 +1,7 @@
 
 # UC Berkeley's Introduction to Artificial Intelligence Projects
 
-This repository containsimplementations for four key projects from the UC Berkeley's Introduction to Artificial Intelligence course. Each project focuses on different aspects of AI, from search algorithms to multi-agent systems, reinforcement learning, and probabilistic tracking.
+This repository contains implementations for four key projects from the UC Berkeley's Introduction to Artificial Intelligence course. Each project focuses on different aspects of AI, from search algorithms to multi-agent systems, reinforcement learning, and probabilistic tracking.
 
 ## Project 1: Search in Pacman
 
